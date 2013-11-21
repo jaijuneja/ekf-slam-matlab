@@ -1,4 +1,14 @@
------------------------------- Copyright Info -----------------------------
+Overview
+========
+
+SLAM simulator in MATLAB that uses a graphical interface for visualisation
+and allows manual mapping of rooms and obstacles.
+
+For example videos of the software and further information, please visit:
+www.jaijuneja.com/blog/2013/05/simultaneous-localisation-mapping-matlab/
+
+Copyrigt Info
+=============
 
 This software was written and developed by Jai Juneja as part of an
 undergraduate project in the Department of Engineering Science, University
@@ -17,7 +27,8 @@ acknowledged as follows:
       Mian (relevant copyright informtion included in the file).
     - Any 3rd party code that has been untouched is in the folder 3rd-party
 
-------------------------------- Instructions ------------------------------
+Instructions
+============
 
 1) Select the root folder in the "Current Folder" window.
    Right click -> Add to path -> Selected folders and subfolders.
