@@ -6,7 +6,7 @@ SLAM simulator in MATLAB that uses a graphical interface for visualisation and a
 For example videos of the software and further information, please visit:
 www.jaijuneja.com/blog/2013/05/simultaneous-localisation-mapping-matlab/
 
-Copyrigt Info
+Copyright Info
 =============
 
 This software was written and developed by Jai Juneja as part of an undergraduate project in the Department of Engineering Science, University of Oxford. If you have any questions, I can be contacted at:
